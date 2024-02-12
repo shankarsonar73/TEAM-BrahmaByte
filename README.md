@@ -47,7 +47,9 @@ git clone https://github.com/shankarsonar73/TEAM-BrahmaByte.git
 
 
 <p align="left"> 
-Clicking the "Connect Wallet" button in the navbar you will see the wallet option when you connect the wallet then only sign in option will be available. After that its the choice of the user to buy the  **SOVITE Subscription**.All the images are shown below how it actually works.
+Clicking the "Connect Wallet" button in the navbar you will see the wallet option when you connect the wallet then only sign in option will be available. After that its the choice of the user to buy the  
+**SOVITE Subscription**
+All the images are shown below how it actually works.
 <br/>
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/connect.png" width="400px" />  
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/WalletPopup.png" width="400px" />
@@ -65,25 +67,40 @@ Clicking the "Connect Wallet" button in the navbar you will see the wallet optio
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/login.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/Reg.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/3.png" width="400px" />
-<!--   <img src="https://shankarhere.blob.core.windows.net/shankarsonar/5.png" width="400px" /> -->
-  <img src="https://shankarhere.blob.core.windows.net/shankarsonar/Profile.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/Profile.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/1.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/2.png" width="400px" />
 <img src="" width="400px" />
-  </p>
-
-
+</p>
 <br />
 
 ## 📱Tech Stack and Dependencies
 
-**Technologies**: ReactJS,
-                  ExpressJS,
-                  NodeJS and
-                  MongoDB
+### Technologies Used:
+
+- ReactJS
+- ExpressJS
+- NodeJS
+- MongoDB
+- Express Tezos Blockchain
+- Tailwind CSS
+
 **Blockchain Technologies**: Tezos, Beacon-SDK
 
-**Dependencies**: `react-router-dom` and `react-router-hash-link`
+### Dependencies:
+
+- `react-router-dom`
+- `react-router-hash-link`
+- `"react": "^18.2.0"`
+- `"react-dom": "^18.2.0"`
+- `"react-dropzone": "^14.2.3"`
+- `"react-fast-marquee": "^1.6.4"`
+- `"react-hot-toast": "^2.4.1"`
+- `"react-icons": "^5.0.1"`
+- `"react-redux": "^8.1.3"`
+- `"react-router-dom": "^6.22.0"`
+- `"mongoose": "^6.7.0"`
+
 
 <br />
 <hr />
