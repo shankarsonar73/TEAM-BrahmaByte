@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+@font-face {
+  font-family: 'Satoshi';
+  src: url('./Talwind/fonts/ABCGintoNord-Black-Trial-BF651b7b72b5ea4.woff') format('woff'),
+       url('./Talwind/fonts/Satoshi-Variable.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+
+@font-face {
+  font-family: 'gg sans Semibold';
+  src: url('./Talwind/fonts/gg-sans-Semibold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-gg-sans-semibold {
+  font-family: 'gg sans Semibold';
+}
+
+
+@font-face {
+  font-family: 'my-font';
+  src: url('./Talwind/fonts/ABCGintoNord-Black-Trial-BF651b7b72b5ea4.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-my-font1 {
+  font-family: 'my-font';
+}
+
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap");
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "Rubik", sans-serif;
+} */

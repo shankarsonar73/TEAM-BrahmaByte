@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('./fonts/ABCGintoNord-Black-Trial-BF651b7b72b5ea4.woff') format('woff'),
+       url('./fonts/Satoshi-Variable.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+
+@font-face {
+  font-family: 'gg sans Semibold';
+  src: url('./fonts/gg-sans-Semibold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-gg-sans-semibold {
+  font-family: 'gg sans Semibold';
+}
+
+
+@font-face {
+  font-family: 'my-font';
+  src: url('./fonts/ABCGintoNord-Black-Trial-BF651b7b72b5ea4.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-my-font1 {
+  font-family: 'my-font';
+}
+
