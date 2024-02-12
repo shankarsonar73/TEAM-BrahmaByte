@@ -82,7 +82,7 @@ All the images are shown below how it actually works.
 - ExpressJS
 - NodeJS
 - MongoDB
-- Express Tezos Blockchain
+- Tezos Blockchain
 - Tailwind CSS
 
 **Blockchain Technologies**: Tezos, Beacon-SDK
