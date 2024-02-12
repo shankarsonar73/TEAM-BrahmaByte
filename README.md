@@ -66,8 +66,8 @@ Clicking the "Connect Wallet" button in the navbar you will see the wallet optio
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/Reg.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/3.png" width="400px" />
   <img src="https://shankarhere.blob.core.windows.net/shankarsonar/5.png" width="400px" />
-  <img src="https://shankarhere.blob.core.windows.net/shankarsonar/4.png" width="400px" />
-<img src="https://shankarhere.blob.core.windows.net/shankarsonar/1.png" width="400px" />
+<!--   <img src="https://shankarhere.blob.core.windows.net/shankarsonar/4.png" width="400px" /> -->
+<!-- <img src="https://shankarhere.blob.core.windows.net/shankarsonar/1.png" width="400px" /> -->
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/2.png" width="400px" />
 
 
