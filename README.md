@@ -1,4 +1,4 @@
-                                                                      **Team BRAHMABYTE**
+                                          **Team BRAHMABYTE**
 # ✨SOVITE
 A Webbased social media platform built on the Tezos blockchain.SOVITE aims to make an interactive social media platform designed specifically for use within a campus environment,using the power of blockchain.
 
