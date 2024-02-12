@@ -40,12 +40,11 @@ git clone https://github.com/shankarsonar73/TEAM-BrahmaByte.git
 3. perform `cd client` to run client on the terminal then Run `npm run dev` to run the project on `localhost:3000
    
 
-<br />
-## Some Screenshots How Tezos Works
+
+## Some Screenshots of Website
 
 
 <p align="left"> 
- <br/>
 Clicking the "Connect Wallet" button in the navbar you will see the wallet option when you connect the wallet then only sign in option will be available. After that its the choice of the user to buy the **SOVITE+ Subscription**.All the images are shown below how it actually works.
 <br/>
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/connect.png" width="400px" />  
