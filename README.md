@@ -11,7 +11,7 @@ Please note that as this was a 36 hour hackathon.
 ## 🔗Relevant Links
 
 1. **Presentation Deck**: [Click Here](https://shankarhere.blob.core.windows.net/shankarsonar/Brahmabyte.pptx)
-2. **Video Demo**: [Click Here](https://shankarhere.blob.core.windows.net/shankarsonar/Demo Video.mkv)
+2. **Video Demo**: [Click Here](https://shankarhere.blob.core.windows.net/shankarsonar/DemoVideo.mkv)
 <br />
 
 ## 🤔What is SOVITE?
