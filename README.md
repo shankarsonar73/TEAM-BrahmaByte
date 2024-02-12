@@ -1,4 +1,4 @@
-                                          **Team BRAHMABYTE**
+                                            **Team BRAHMABYTE**
 # ✨SOVITE
 A Webbased social media platform built on the Tezos blockchain.SOVITE aims to make an interactive social media platform designed specifically for use within a campus environment,using the power of blockchain.
 
@@ -79,17 +79,10 @@ Clicking the "Buy Subsription" button in the navbar will open this prompt window
 **Dependencies**: `react-router-dom` and `react-router-hash-link`
 
 <br />
-## 💱More on the Usage of Tezos
-
-Clicking the "Buy Subsription" button in the navbar will open this prompt window and you can choose any wallet to sign in. After that your wallet will be connected to SOVITE and your wallet address will be shown in the navbar after that when we open the KUKAI wallet you will have a request to buy subscription as you submit the request the tez coin from your account will be diducted.
-
-<img src="https://user-images.githubusercontent.com/18113725/153726402-46182f2b-0a7c-498e-9e40-cbbbedfcef67.PNG" width="700" />
-
-<br />
 <hr />
 
 ## 😄Contact Us
 
 Have any feedback, any suggestions? Or just want to connect?
 
-Head over to my **[LinkedIn](https://www.linkedin.com/in/prabhav-pandey/)** or **[Github](https://github.com/PrabhavPandey)** profile
+Head over to my **[LinkedIn](https://www.linkedin.com/in/prabhav-pandey/)** or **[Github]([https://github.com/PrabhavPandey](https://github.com/shankarsonar73))** profile
