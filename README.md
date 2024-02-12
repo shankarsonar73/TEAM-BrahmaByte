@@ -41,7 +41,7 @@ git clone https://github.com/shankarsonar73/TEAM-BrahmaByte.git
    
 
 <br />
-## ## Some Screenshots How Tezos Works
+## Some Screenshots How Tezos Works
 
 
 <p align="left"> 
