@@ -29,7 +29,7 @@ def main():
                 sp.send(sp.sender, extra_balance)
 
         @sp.entrypoint
-        def end(self):
+        def end_sub(self):
             # Sanity checks
             assert self.data.Subscription_available == 0, "Not Get any Sub"
     
@@ -75,5 +75,5 @@ if "templates" not in __name__:
         scenario.h2("buy_subscription (failure test)")
     
         # end
-        scenario.h2("end (valid test)")
-        SubScription.end().run(sender = admin, now = sp.timestamp(20))
+        scenario.h2("end_sub(valid test)")
+        SubScription.end_sub().run(sender = admin, now = sp.timestamp(20))
