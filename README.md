@@ -41,7 +41,7 @@ git clone https://github.com/shankarsonar73/TEAM-BrahmaByte.git
    
 
 <br />
-##Some Screenshots How Tezos works
+## Some Screenshots How Tezos works
 <br/>
 <p align="left"> 
  <br/>
@@ -57,7 +57,7 @@ Clicking the "Connect Wallet" button in the navbar you will see the wallet optio
 
   </p>
 
-**Some Screenshots of Website**
+## Some Screenshots of Website
 
 <p align="left"> 
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/login.png" width="400px" />
