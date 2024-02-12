@@ -1,3 +1,4 @@
+# KT1KhwFvLGpBVYmdx9m4apn2Uhrns4eXQzXa
 import smartpy as sp
 
 # A SmartPy module
@@ -7,40 +8,40 @@ def main():
     class SubScription(sp.Contract):
         def __init__(self):
             self.data = sp.record(
-                players = {},
-                ticket_cost = sp.tez(1),
-                tickets_available = sp.nat(5),
-                max_tickets = sp.nat(5),
+                Users = {},
+                Sub_Cost = sp.tez(1),
+                Subscription_available = sp.nat(5),
+                max_sub = sp.nat(5),
             )
-            
+
+        
         @sp.entrypoint
         def buy_subscription(self):
-            assert self.data.tickets_available > 0, "NO_TICKETS_AVAILABLE"
-            assert sp.amount >= self.data.ticket_cost, "INVALID_AMOUNT"
-            self.data.players[sp.len(self.data.players)] = sp.sender
-            self.data.tickets_available = sp.as_nat(self.data.tickets_available - 1)
+            assert self.data.Subscription_available > 0, "NO_SubScription_AVAILABLE"
+            assert sp.amount >= self.data.Sub_Cost, "INVALID_AMOUNT"
+            self.data.Users[sp.len(self.data.Users)] = sp.sender
+            self.data.Subscription_available = sp.as_nat(self.data.Subscription_available - 1)
     
             # Return extra tez balance to the sender
-            extra_balance = sp.amount - self.data.ticket_cost
+            extra_balance = sp.amount - self.data.Sub_Cost
             if extra_balance > sp.mutez(0):
                 sp.send(sp.sender, extra_balance)
 
         @sp.entrypoint
-        def end_game(self):
-    
+        def end(self):
             # Sanity checks
-            assert self.data.tickets_available == 0, "Not Get any Sub"
+            assert self.data.Subscription_available == 0, "Not Get any Sub"
     
             # Pick a winner
-            winner_id = sp.mod(sp.as_nat(sp.now - sp.timestamp(0)), self.data.max_tickets)
-            winner_address = self.data.players[winner_id]
+            winner_id = sp.mod(sp.as_nat(sp.now - sp.timestamp(0)), self.data.max_sub)
+            winner_address = self.data.Users[winner_id]
     
             # Send the reward to the winner
             sp.send(winner_address, sp.balance)
     
             # Reset the game
-            self.data.players = {}
-            self.data.tickets_available = self.data.max_tickets
+            self.data.Users = {}
+            self.data.Subscription_available = self.data.max_sub
 
 
 # Tests
@@ -72,6 +73,6 @@ if "templates" not in __name__:
     
         scenario.h2("buy_subscription (failure test)")
     
-        # end_game
-        scenario.h2("end_game (valid test)")
-        SubScription.end_game().run(sender = admin, now = sp.timestamp(20))
+        # end
+        scenario.h2("end (valid test)")
+        SubScription.end().run(sender = admin, now = sp.timestamp(20))
