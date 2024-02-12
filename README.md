@@ -100,6 +100,12 @@ All the images are shown below how it actually works.
 - `"react-redux": "^8.1.3"`
 - `"react-router-dom": "^6.22.0"`
 - `"mongoose": "^6.7.0"`
+- `"bcrypt": "^5.1.0"`
+- `"bad-words": "^3.0.4"`
+- `"dotenv": "^16.4.1"`
+- `"formik": "^2.4.5"`
+- `"nodemailer": "^6.9.9"`
+
 
 
 <br />
