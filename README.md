@@ -72,7 +72,10 @@ Clicking the "Connect Wallet" button in the navbar you will see the wallet optio
 
 ## 📱Tech Stack and Dependencies
 
-**Technologies**: ReactJS,ExpressJS,NodeJS and MongoDB
+**Technologies**: ReactJS,
+                  ExpressJS,
+                  NodeJS and
+                  MongoDB
 **Blockchain Technologies**: Tezos, Beacon-SDK
 
 **Dependencies**: `react-router-dom` and `react-router-hash-link`
