@@ -85,4 +85,4 @@ Clicking the "Buy Subsription" button in the navbar will open this prompt window
 
 Have any feedback, any suggestions? Or just want to connect?
 
-Head over to my **[LinkedIn](https://www.linkedin.com/in/prabhav-pandey/)** or **[Github](https://github.com/shankarsonar73)** profile
+Head over to my **[LinkedIn](http://www.linkedin.com/in/shankar-sonar-68243b19b)** or **[Github](https://github.com/shankarsonar73)** profile
