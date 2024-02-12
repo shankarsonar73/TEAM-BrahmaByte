@@ -47,7 +47,7 @@ git clone https://github.com/shankarsonar73/TEAM-BrahmaByte.git
 
 
 <p align="left"> 
-Clicking the "Connect Wallet" button in the navbar you will see the wallet option when you connect the wallet then only sign in option will be available. After that its the choice of the user to buy the **SOVITE+ Subscription**.All the images are shown below how it actually works.
+Clicking the "Connect Wallet" button in the navbar you will see the wallet option when you connect the wallet then only sign in option will be available. After that its the choice of the user to buy the  **SOVITE Subscription**.All the images are shown below how it actually works.
 <br/>
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/connect.png" width="400px" />  
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/WalletPopup.png" width="400px" />
