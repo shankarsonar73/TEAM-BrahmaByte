@@ -1,11 +1,12 @@
 ## Team BrahmaByte
 
 # ✨SOVITE
-A Webbased social media platform built on the Tezos blockchain.SOVITE aims to make an interactive social media platform designed specifically for use within a campus environment,using the power of blockchain.
+A Webbased social media platform built MERN and integrated with Tezos blockchain. SOVITE aims to make an interactive social media platform designed specifically for use within a campus environment,using the power of blockchain.
 
-_Built during the HackFusion Hackathon organised in SGGS Nanded by SWAG Community.
+Built during the HackFusion Hackathon organised in SGGS Nanded by SWAG Community (HackFusion).
 
-Please note that as this was a 36 hour hackathon.
+### Please note that as this was a 36 hour hackathon.
+
 <br />
 
 ## 🔗Relevant Links
@@ -38,17 +39,16 @@ Responsive Design: The application is designed to be responsive, ensuring seamle
 git clone https://github.com/shankarsonar73/TEAM-BrahmaByte.git
 ```
 
-1. perform `cd server` then  Run `npm install`then Run `npm start`,to run server
+1. perform `cd server` then  Run `npm install` then Run `npm start`, to run server
 3. perform `cd client` to run client on the terminal then Run `npm run dev` to run the project on `localhost:3000
    
 
 
 ## Some Screenshots of How Tezos Works on SOVITE
 
-
 <p align="left"> 
 Clicking the "Connect Wallet" button in the navbar you will see the wallet option when you connect the wallet then only sign in option will be available. After that its the choice of the user to buy the  
-**SOVITE Subscription**
+SOVITE Subscriptio
 All the images are shown below how it actually works.
 <br/>
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/connect.png" width="400px" />  
