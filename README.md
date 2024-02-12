@@ -42,7 +42,8 @@ git clone https://github.com/shankarsonar73/TEAM-BrahmaByte.git
 
 <br />
 ## ## Some Screenshots How Tezos Works
-<br/>
+
+
 <p align="left"> 
  <br/>
 Clicking the "Connect Wallet" button in the navbar you will see the wallet option when you connect the wallet then only sign in option will be available. After that its the choice of the user to buy the **SOVITE+ Subscription**.All the images are shown below how it actually works.
