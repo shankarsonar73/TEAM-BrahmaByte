@@ -46,10 +46,9 @@ git clone https://github.com/PrabhavPandey/ateru-webapp.git
 <br/>
 <p align="left"> 
  <br/>
-Clicking the "Buy Subsription" button in the navbar will open this prompt window and you can choose any wallet to sign in. After that your wallet will be connected to SOVITE and your wallet address will be shown in the navbar after that when we open the KUKAI wallet you will have a request to buy subscription as you submit the request the tez coin from your account will be diducted.
-
+Clicking the "Connect Wallet" button in the navbar you will see the wallet option when you connect the wallet then only sign in option will be available.
 <br/>
-   
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/connect.png" width="400px" />  
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/Pictures 12-02-2024 11_58_26.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_04_12.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_06_51.png" width="400px" />
