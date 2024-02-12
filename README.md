@@ -50,8 +50,8 @@ Clicking the "Connect Wallet" button in the navbar you will see the wallet optio
 <br/>
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/connect.png" width="400px" />  
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/WalletPopup.png" width="400px" />
-<img src="https://shankarhere.blob.core.windows.net/shankarsonar/Pictures 12-02-2024 11_58_26.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_04_12.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/Pictures 12-02-2024 11_58_26.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_06_51.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_09_40.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/Success.png" width="400px" />
