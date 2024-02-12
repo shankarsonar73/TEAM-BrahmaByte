@@ -66,7 +66,7 @@ if "templates" not in __name__:
         # buy_subscription
         scenario.h2("buy_subscription (valid test)")
         SubScription.buy_subscription().run(amount = sp.tez(1), sender = shankar)
-        SubScription.buy_subscription().run(amount = sp.tez(2), sender = shankar)
+        SubScription.buy_subscription().run(amount = sp.tez(2), sender = Pratik)
         SubScription.buy_subscription().run(amount = sp.tez(3), sender = Vaishnavi)
         SubScription.buy_subscription().run(amount = sp.tez(1), sender = Ravi)
         SubScription.buy_subscription().run(amount = sp.tez(1), sender = PatelSir)
