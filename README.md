@@ -1,7 +1,95 @@
-# FullStack Social Media App
+                                                                      **Team BRAHMABYTE**
+# ✨SOVITE
+A Webbased social media platform built on the Tezos blockchain.SOVITE aims to make an interactive social media platform designed specifically for use within a campus environment,using the power of blockchain.
 
-Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
+_Built during the HackFusion Hackathon organised in SGGS Nanded by SWAG Community.
 
-Video: https://www.youtube.com/watch?v=K8YELRmUb5o
+Please note that as this was a 36 hour hackathon.
+<br />
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+## 🔗Relevant Links
+
+1. **Presentation Deck**: [Click Here](https://drive.google.com/file/d/1XXpS4lpJztiEFqpRkTBsf4kk3PiiMm8c/view?usp=sharing)
+<br />
+
+## 🤔What is SOVITE?
+
+Sovite is a comprehensive web application designed specifically for college communities, built using the MERN (MongoDB, Express.js, React.js, Node.js) technology stack. It serves as a dynamic platform where students, teachers, and all members associated with the college can interact, share information, and engage in discussions.
+Key Features:
+
+User-Friendly Interface: Sovite offers a user-friendly interface akin to popular social media platforms like Twitter. Users can easily navigate through different sections and functionalities.
+
+Multi-Media Content: Users can post a variety of content including text, images, and multimedia files. This allows for dynamic and engaging interactions among community members.
+
+Community Section: Sovite includes a dedicated community section where different groups within the college, such as clubs, societies, and departments, can create their own spaces to share announcements, events, and discussions relevant to their interests.
+
+Real-Time Interaction: The application supports real-time interactions, enabling users to engage in discussions, react to posts, and receive instant updates on new content.
+
+Responsive Design: The application is designed to be responsive, ensuring seamless user experience across various devices including desktops, tablets, and smartphones.
+<br />
+
+## 💻 How to Run This Project Locally?
+
+1. Clone the repository with the following command
+
+```sh
+git clone https://github.com/PrabhavPandey/ateru-webapp.git
+```
+
+1. Run `npm install` or `yarn install` to install all the dependencies
+2. perform `cd server` to run server on the terminal then Run `npm start`,
+3. perform `cd client` to run client on the terminal then Run `npm run dev` to run the project on `localhost:3000
+   
+
+<br />
+**Some Screenshots How Tezos works**
+<br/>
+<p align="left"> 
+ <br/>
+Clicking the "Buy Subsription" button in the navbar will open this prompt window and you can choose any wallet to sign in. After that your wallet will be connected to SOVITE and your wallet address will be shown in the navbar after that when we open the KUKAI wallet you will have a request to buy subscription as you submit the request the tez coin from your account will be diducted.
+
+<br/>
+   
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/Pictures 12-02-2024 11_58_26.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_04_12.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_06_51.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_09_40.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/Success.png" width="400px" />
+
+  </p>
+
+**Some Screenshots of Website**
+
+<p align="left"> 
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/Pictures 12-02-2024 11_58_26.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_04_12.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_06_51.png" width="400px" />
+<img src="[https://shankarhere.blob.core.windows.net/shankarsonar/TeZos + Social - Google Chrome 12-02-2024 12_06_51.png](https://shankarhere.blob.core.windows.net/shankarsonar/Success.png)" width="400px" />
+   
+  </p>
+
+
+<br />
+
+## 📱Tech Stack and Dependencies
+
+**Technologies**: ReactJS,ExpressJS,NodeJS and MongoDB
+**Blockchain Technologies**: Tezos, Beacon-SDK
+
+**Dependencies**: `react-router-dom` and `react-router-hash-link`
+
+<br />
+## 💱More on the Usage of Tezos
+
+Clicking the "Buy Subsription" button in the navbar will open this prompt window and you can choose any wallet to sign in. After that your wallet will be connected to SOVITE and your wallet address will be shown in the navbar after that when we open the KUKAI wallet you will have a request to buy subscription as you submit the request the tez coin from your account will be diducted.
+
+<img src="https://user-images.githubusercontent.com/18113725/153726402-46182f2b-0a7c-498e-9e40-cbbbedfcef67.PNG" width="700" />
+
+<br />
+<hr />
+
+## 😄Contact Us
+
+Have any feedback, any suggestions? Or just want to connect?
+
+Head over to my **[LinkedIn](https://www.linkedin.com/in/prabhav-pandey/)** or **[Github](https://github.com/PrabhavPandey)** profile
