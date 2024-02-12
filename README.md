@@ -70,7 +70,7 @@ All the images are shown below how it actually works.
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/Profile.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/1.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/2.png" width="400px" />
-<img src="" width="400px" />
+
 </p>
 <br />
 
