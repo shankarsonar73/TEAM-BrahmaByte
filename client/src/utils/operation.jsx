@@ -1,10 +1,9 @@
-// TODO 6 - Call buy_ticket entrypoint in the Lottery contract by completing buyTicketOperation
 import {tezos} from "./tezos"
 
 export const buyTicketOperation = async () => {
     try{
-        const contract = await tezos.wallet.at("KT1WT6AjrzNhUqXZgc2JVE8bvRgb9WmkUXrT");
-        const op =await contract.methods.buy_ticket().send({
+        const contract = await tezos.wallet.at("KT1TNE7pfAggMKxFqpa5gjQYPYB6nnkdzcAX");
+        const op =await contract.methods.buy_subscription().send({
             amount: 1,
             mutez: false,
         })
@@ -19,11 +18,12 @@ export const buyTicketOperation = async () => {
 
 export const endGameOperation = async () => {
     try{
-        const contract = await tezos.wallet.at("KT1WT6AjrzNhUqXZgc2JVE8bvRgb9WmkUXrT")
-        const op = await contract.methods.end_game().send()
+        const contract = await tezos.wallet.at("KT1TNE7pfAggMKxFqpa5gjQYPYB6nnkdzcAX")
+        const op = await contract.methods.end_sub().send()
         await op.confirmation(1)
     }
     catch (err){
         throw err;
     }
 };
+
