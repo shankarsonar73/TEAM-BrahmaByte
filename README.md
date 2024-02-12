@@ -36,7 +36,7 @@ Responsive Design: The application is designed to be responsive, ensuring seamle
 git clone https://github.com/shankarsonar73/TEAM-BrahmaByte.git
 ```
 
-1. perform `cd server` to run server on the terminal then  Run `npm install`then Run `npm start`,
+1. perform `cd server` then  Run `npm install`then Run `npm start`,to run server
 3. perform `cd client` to run client on the terminal then Run `npm run dev` to run the project on `localhost:3000
    
 
