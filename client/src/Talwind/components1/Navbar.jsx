@@ -40,8 +40,8 @@ const Navbar = () => {
       await buyTicketOperation();
       alert("Bought a Subscription");
       const storage = await fetchStorage();
-      setPlayers(Object.values(storage.players));
-      setTickets(storage.tickets_available);
+      setPlayers(Object.values(storage.Users));
+      setTickets(storage.Subscription_available);
     } catch (error) {
       throw error;
     } finally {
@@ -53,10 +53,10 @@ const Navbar = () => {
     try {
       setLoading(true);
       await endGameOperation();
-      alert("Game Ended");
+      alert("Ended");
       const storage = await fetchStorage();
-      setPlayers(Object.values(storage.players));
-      setTickets(storage.tickets_available);
+      setPlayers(Object.values(storage.Users));
+      setTickets(storage.Subscription_available);
     } catch (error) {
       throw error;
     } finally {
