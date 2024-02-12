@@ -33,7 +33,7 @@ Responsive Design: The application is designed to be responsive, ensuring seamle
 1. Clone the repository with the following command
 
 ```sh
-git clone https://github.com/PrabhavPandey/ateru-webapp.git
+git clone https://github.com/shankarsonar73/TEAM-BrahmaByte.git
 ```
 
 1. Run `npm install` or `yarn install` to install all the dependencies
