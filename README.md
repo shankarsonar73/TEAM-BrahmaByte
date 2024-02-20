@@ -71,6 +71,7 @@ All the images are shown below how it actually works.
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/post.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/profilepage.png" width="400px" />
 <img src="https://shankarhere.blob.core.windows.net/shankarsonar/2.png" width="400px" />
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/friend.png" width="400px" />
 
 </p>
 <br />
