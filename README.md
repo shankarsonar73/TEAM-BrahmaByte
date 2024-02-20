@@ -12,7 +12,7 @@ Built during the HackFusion Hackathon organised in SGGS Nanded by SWAG Community
 ## 🔗Relevant Links
 
 1. **Presentation Deck**: [Click Here](https://shankarhere.blob.core.windows.net/shankarsonar/Sovit.pptx)
-2. **Video Demo**: [Click Here](https://shankarhere.blob.core.windows.net/shankarsonar/DemoVideo.mkv)
+2. **Video Demo**: [Click Here](https://drive.google.com/file/d/1OL-R9PRHZdsnQF91ECPdn4d0WlFwZq-r/view?usp=drive_link)
 <br />
 
 ## 🤔What is SOVITE?
